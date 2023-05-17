@@ -1,4 +1,7 @@
-csv
+catalog-data
+customer-data
+sales-data
+wishlist-data
 node_modules
 yarn-error.log
 .idea
@@ -10,3 +13,4 @@ coverage
 vscode/*.json
 .vscode
 .vscode/launch.json
+todo.coffee
